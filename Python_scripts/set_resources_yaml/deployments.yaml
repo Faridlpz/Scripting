@@ -1,0 +1,10 @@
+- deploymentName: insertValue
+  limitsCPU: "680m"
+  requestsCPU: "450m"
+  limitsMemory: "1000Mi"
+  requestsMemory: "1000Mi"
+- deploymentName: insertValue
+  limitsCPU: "960m"
+  requestsCPU: "450m"
+  limitsMemory: "1000Mi"
+  requestsMemory: "1000Mi"

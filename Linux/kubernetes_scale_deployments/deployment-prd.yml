@@ -1,0 +1,6 @@
+- name: namespaceName
+  deployments:
+    - deploymentName
+- name: namespaceName
+  deployments:
+    - deploymentName

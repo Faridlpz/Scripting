@@ -1,2 +1,8 @@
 # Scripting
-This folder contains all the scripting developed by myself used in the projects
+
+Folder: Python_scripts
+It contains all the scripts used to perform automation with Python as interpreter 
+
+Folder: Linux
+It contains all the scripts used to perform automation with Linux as interpreter 
+
